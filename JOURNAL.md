@@ -6,7 +6,7 @@
   ==================================================================
 -->
 
-## 11/4/2025 -  Plan out possible methods to utilize and their pros & cons  
+## 11/4/2025 -  Plan out possible solutions and their pros & cons  
 
 Today we explored possible approaches for our project, considering both Bluetooth-based detection and a dedicated Wi-Fi access point for automating classroom attendance. We discussed the pros and cons of each method and how they might function in a real classroom setting. Additionally, we began planning out the first 3D model using public 3d printable files, outlining its basic structure and components so that we can later test and refine it as part of our overall system design.![Screenshot 2025-11-04 at 3.54.09 PM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODM5MywicHVyIjoiYmxvYl9pZCJ9fQ==--7c7d402b185e6e4f128038aa4ec63b5d812ad212/Screenshot%202025-11-04%20at%203.54.09%E2%80%AFPM.png)
   
